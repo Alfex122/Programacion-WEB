@@ -1,0 +1,26 @@
+#ID
+.clase
+body{
+    background-color:#28AEFF;
+}
+fieldset{
+    background-color: rgb(25, 238, 253);
+}
+a{
+    font-style: oblique; 
+    font-size: x-large;
+}
+legend{
+    font-style: oblique; 
+    font-size: x-large;
+}
+label{
+    font-style: italic;
+    color: rgb(16, 12, 216);
+}
+button{
+    background-color:rgb(6, 118, 149)
+}
+table{
+    background-color: rgb(155, 249, 249);
+}
