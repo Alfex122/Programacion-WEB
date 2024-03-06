@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<JSON_ARRAY>
+	<array>
+		<Nombre>Alexis David Zambrano Ibarra</Nombre>
+		<Edad>22</Edad>
+		<Materias_X20_cursando>
+			<Materia>Programacion WEB</Materia>
+			<Docente>Oscar Lenin</Docente>
+		</Materias_X20_cursando>
+		<Materias_X20_cursando>
+			<Materia>Taller de investigacion</Materia>
+			<Docente>Nivia Iracemi</Docente>
+		</Materias_X20_cursando>
+		<Materias_X20_cursando>
+			<Materia>Emprendedurismo</Materia>
+			<Docente>Silvia</Docente>
+		</Materias_X20_cursando>
+		<Materias_X20_cursando>
+			<Materia>Tecnologias Inalambricas</Materia>
+			<Docente>Nivia Iracemi</Docente>
+		</Materias_X20_cursando>
+		<Materias_X20_cursando>
+			<Materia>Sistemas Operativos</Materia>
+			<Docente>Oscar Lenin</Docente>
+		</Materias_X20_cursando>
+		<Materias_X20_cursando>
+			<Materia>Ingles</Materia>
+			<Docente>Rocio</Docente>
+		</Materias_X20_cursando>
+		<Materias_X20_cursando>
+			<Materia>Redes</Materia>
+			<Docente>Ana Cristina</Docente>
+		</Materias_X20_cursando>
+		<Numero_X20_de_X20_celular>4651226813</Numero_X20_de_X20_celular>
+		<Series_X20_Favoritas>
+			<_1>Como conoci a tu madre</_1>
+			<_2>Lucifer</_2>
+			<_3>Steven Universe</_3>
+			<_4>Saint Seiya</_4>
+			<_5>Akame ga kill</_5>
+		</Series_X20_Favoritas>
+		<Artistas_X20_favoritos>
+			<Artista>Michael Jackson</Artista>
+			<Cancion>Bilie Jean</Cancion>
+		</Artistas_X20_favoritos>
+		<Artistas_X20_favoritos>
+			<Artista>She</Artista>
+			<Cancion>Perder el tiempo</Cancion>
+		</Artistas_X20_favoritos>
+		<Artistas_X20_favoritos>
+			<Artista>Kyra</Artista>
+			<Cancion>Cantarte al oido</Cancion>
+		</Artistas_X20_favoritos>
+		<Artistas_X20_favoritos>
+			<Artista>Tiimo</Artista>
+			<Cancion>Amigos</Cancion>
+		</Artistas_X20_favoritos>
+		<Artistas_X20_favoritos>
+			<Artista>Luis Corte</Artista>
+			<Cancion>Me duele quererte</Cancion>
+		</Artistas_X20_favoritos>
+	</array>
+</JSON_ARRAY>

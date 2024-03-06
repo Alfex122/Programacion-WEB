@@ -1,0 +1,42 @@
+[
+    {
+        "Nombre": "Alexis David Zambrano Ibarra",
+        "Edad": 22,
+        "Materias cursando":[
+            {"Materia":"Programacion WEB",
+            "Docente": "Oscar Lenin"},
+            {"Materia":"Taller de investigacion",
+            "Docente": "Nivia Iracemi"},
+            {"Materia":"Emprendedurismo",
+            "Docente": "Silvia"},
+            {"Materia":"Tecnologias Inalambricas",
+            "Docente": "Nivia Iracemi"},
+            {"Materia":"Sistemas Operativos",
+            "Docente": "Oscar Lenin"},
+            {"Materia":"Ingles",
+            "Docente": "Rocio"},
+            {"Materia":"Redes",
+            "Docente": "Ana Cristina"}
+        ],
+        "Numero de celular": 4651226813,
+        "Series Favoritas":{
+            "1": "Como conoci a tu madre",
+            "2": "Lucifer",
+            "3": "Steven Universe",
+            "4": "Saint Seiya",
+            "5": "Akame ga kill"
+        },
+        "Artistas favoritos": [
+            {"Artista": "Michael Jackson",
+            "Cancion": "Bilie Jean"},
+            {"Artista": "She",
+            "Cancion": "Perder el tiempo"},
+            {"Artista": "Kyra",
+            "Cancion": "Cantarte al oido"},
+            {"Artista": "Tiimo",
+            "Cancion": "Amigos"},
+            {"Artista": "Luis Corte",
+            "Cancion": "Me duele quererte"}
+        ]
+    }
+]

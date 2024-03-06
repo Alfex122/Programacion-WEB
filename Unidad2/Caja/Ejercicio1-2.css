@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+fieldset{
+    margin: 15px;
+    padding: 14px;
+    background-color: aliceblue;
+    border-style: outset;
+    border-color: violet;
+    border-width: 10px;
+    border-left-color: whitesmoke;
+    border-right-color: aliceblue;
+}
+button{
+    margin: 8px;
+    padding: 10px;
+}
+#Aceptar{
+    background-color: blue;
+}
+#Cancelar{
+    background-color: gray;
+}

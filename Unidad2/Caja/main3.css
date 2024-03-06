@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+}
+.caja{
+    margin: 15px;
+    padding: 14px;
+    background-color: blue;
+    border-style: outset;
+    border-color: violet;
+    border-width: 10px;
+    color:aquamarine;
+    border-left-color: whitesmoke;
+    border-right-color: aliceblue;
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "Nombre":"Arely Jatziri Sandoval Valdez",
+        "Edad":22,
+        "Calificacion de Primaria":7.5,
+        "Calificacion de Secundarira":8.9,
+        "Calificaciones de Preparatoria":8.8,
+        "Ingenieria en TIC's":
+        {
+            "Semestre 1":{"Promedio": 98, "Estatus":"Inactivo"},
+            "Semestre 2":{"Promedio": 88, "Estatus":"Inactivo"},
+            "Semestre 3":{"Promedio": 90, "Estatus":"Inactivo"},
+            "Semestre 4":{"Promedio": 75, "Estatus":"Activo"},
+            "Semestre 5":{"Promedio": 91, "Estatus":"Inactivo"},
+            "Semestre 6":{"Promedio": 80, "Estatus":"Activo"}
+        }
+    }
+]
