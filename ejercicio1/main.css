@@ -8,7 +8,8 @@ fieldset{
 }
 a{
     font-style: oblique; 
-    font-size: x-large;
+    font: size 55px;
+    color: blue;
 }
 legend{
     font-style: oblique; 
@@ -23,4 +24,12 @@ button{
 }
 table{
     background-color: rgb(155, 249, 249);
+}
+#Lamely{
+    background-color: blueviolet;
+}
+.Parrafo {
+    color:blueviolet;
+    font-size: 70%; 
+    font-family: 'Times New Roman';
 }

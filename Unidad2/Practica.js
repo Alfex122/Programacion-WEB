@@ -24,8 +24,8 @@ div1.appendChild(Hijo1 + Hijo2 + Hijo3)
 //Modificacion del color de los forms
 const FS = document.querySelector('fieldset')
 FS.style.backgroundColor = 'MediumPurple'
-const FS22= document.querySelector('#Cartel')
-FS22.style.backgroundColor = 'aqua' 
+const FS12= document.querySelector('.peliculas')
+FS12.style.backgroundColor = 'blue' 
 
 //Pagina 2 - Forms
 const FS = document.querySelector('fieldset')
