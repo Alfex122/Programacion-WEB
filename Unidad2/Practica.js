@@ -36,4 +36,4 @@ const FS = document.querySelector('fieldset')
 FS.style.backgroundColor = 'green'
 
 const Parraf = document.querySelector('p')
-Parraf.style.font = 'red' 
+Parraf.style.font = 'red'
